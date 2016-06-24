@@ -1,1 +1,2 @@
 # superbarszczTest
+write ('HelloWorld')
